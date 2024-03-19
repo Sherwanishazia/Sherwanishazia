@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shazia Khan, a Data analyst and Power BI Developer 📊
+# Hi there! 👋 I'm Shazia Khan, a Data Analyst and Power BI Developer 📊
 
 Welcome to my GitHub profile! As a Power BI developer, I'm dedicated to harnessing data to extract insights and address practical challenges. 
 Explore here to discover my projects, contributions, and a glimpse into my background.
