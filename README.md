@@ -16,8 +16,10 @@ Explore here to discover my projects, contributions, and a glimpse into my backg
 
 ## Projects
 Project1 - https://github.com/Sherwanishazia/HR-Attendance-DashBoard
+
 Project2 - https://github.com/Sherwanishazia/Coursera-project-mintclassics
 
+Thanks for visiting my profile! Feel free to explore my repositories.
 
 <!---
 Sherwanishazia/Sherwanishazia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
