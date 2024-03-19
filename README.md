@@ -14,6 +14,10 @@ Explore here to discover my projects, contributions, and a glimpse into my backg
 - 📊 Data Visualization: Power BI.
 - 🗃️ Database: MySQL,Oracle, SQL Server2022
 
+## Projects
+Project1 - https://github.com/Sherwanishazia/HR-Attendance-DashBoard
+
+
 <!---
 Sherwanishazia/Sherwanishazia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
