@@ -19,6 +19,10 @@ Project1 - https://github.com/Sherwanishazia/HR-Attendance-DashBoard
 
 Project2 - https://github.com/Sherwanishazia/Coursera-project-mintclassics
 
+Project3 - https://github.com/Sherwanishazia/Basket_Analysis
+
+Project4 - 
+
 Thanks for visiting my profile! Feel free to explore my repositories.
 
 <!---
